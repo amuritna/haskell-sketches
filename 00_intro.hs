@@ -1,6 +1,9 @@
 {-
 
-Penyelesaian   masalah   didasari   atas   aplikasi   dari   fungsi-fungsi tersebut.  Jadi  dasar  pemecahan  persoalan  adalah transformasional.  Semua  kelakuan program  adalah  suatu  rantai  transformasi  dari  sebuah  keadaan  awal  menuju  ke  suatu rantai keadaan akhir, yang mungkin melalui keadaan antara, melalui aplikasi fungsi.
+Penyelesaian   masalah   didasari   atas   aplikasi   dari   fungsi-fungsi tersebut. 
+Jadi  dasar  pemecahan  persoalan  adalah transformasional.  Semua  kelakuan program 
+adalah  suatu  rantai  transformasi  dari  sebuah  keadaan  awal  menuju  ke  suatu
+rantai keadaan akhir, yang mungkin melalui keadaan antara, melalui aplikasi fungsi.
 
 -- Diktat Fungsional, oleh Inggriani Liem.
 
