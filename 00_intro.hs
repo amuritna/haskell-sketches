@@ -18,7 +18,7 @@ TEMPLATE teks program dalam notasi fungsional adalah sebagai berikut.
 {- Deskripsi program tsb bla bla lorem ipsum bla bla -}
 
 -- DEFINISI DAN SPESIFIKASI
-fungsi :: domain -> range, untuk Daspro biasanya pakai antara Int, Char, Bool, [Int], dan [Char]
+fungsi :: domain -> range, untuk Daspro biasanya pakai antara Int, Float, Char, Bool, [Int], [Float], dan [Char]
 
 -- REALISASI
 fungsi = ...
