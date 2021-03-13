@@ -41,7 +41,8 @@ pow a b
 -- DECREASING DIGITS
 -- DEFINISI DAN SPESIFIKASI
 decDigits :: Int -> Int
-{- Menghasilkan bilangan dengan N digit di mana digit paling kiri adalah N dan digit paling kanan adalah 1, dengan digit X = digit [X-1] -1. Sebagai contoh, decDigits 3 = 321. Syarat N < 10. -}
+{- Menghasilkan bilangan dengan N digit di mana digit paling kiri adalah N dan digit paling kanan adalah 1, dengan digit X = digit [X-1] -1.
+Sebagai contoh, decDigits 3 = 321. Syarat N < 10. -}
 
 -- REALISASI
 decDigits n
